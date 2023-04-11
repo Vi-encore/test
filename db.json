@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": 1,
-      "url": "piska"
+      "url": "this"
     },
     {
       "id": 2,
-      "url": "popa"
+      "url": "that"
     }
   ]
 }
