@@ -1,6 +1,5 @@
-//// website with stored photos  https://postimg.cc/gallery/xX4bLXH
-
 {
+  "websiteIMG": "https://postimg.cc/gallery/xX4bLXH",
   "projects": [
     {
       "id": 1,
