@@ -3,6 +3,7 @@
   "projects": [
     {
       "id": 1,
+     "name": "Calculator",
       "imgURL": "https://i.postimg.cc/Sxr4t8zK/calculator.png",
       "repositoryURL": "https://github.com/Vi-encore/Calculator-training",
       "hostingURL": "https://calculator-training.netlify.app/"
@@ -10,12 +11,14 @@
     
     {
       "id": 2,
+     "name": "JS Uploader",
       "imgURL": "https://i.postimg.cc/66295yFH/JS-Download.png",
       "repositoryURL": "https://github.com/Vi-encore/JS-File-Uploader",
       "hostingURL": "https://vi-encore.github.io/JS-File-Uploader/"
     },
     {
       "id": 3,
+     "name": "Landing page",
       "imgURL": "https://i.postimg.cc/43xGCdzQ/landing.png",
       "repositoryURL": "https://github.com/Vi-encore/ITEA-Course-Work-1",
       "hostingURL": "https://vi-encore.github.io/ITEA-Course-Work-1/"
